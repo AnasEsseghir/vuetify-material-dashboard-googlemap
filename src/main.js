@@ -34,7 +34,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, {
   load: {
-    apiKey: 'AIzaSyDQWrvu5Ys6LjhilKjjkH144GMFbkIrv98'
+    apiKey: ''
   },
 })
 Vue.use(md5) //Hash
